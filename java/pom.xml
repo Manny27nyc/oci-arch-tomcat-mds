@@ -51,7 +51,7 @@ Licensed under the Universal Permissive License v 1.0 as shown at http://oss.ora
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>8.0.23</version>
+			<version>8.0.26</version>
 		</dependency>
 		
 		<dependency>
